@@ -3,6 +3,6 @@ textblob
 wikipedia
 fire
 pytest
-ptest-cov
+pytest-cov
 pylint
 black 
